@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mohammed Patel!
 
 🎓 Final Year BSc IT Student at Mumbai University  
-📊 Aspiring Data Analyst | Power BI Enthusiast | Python & SQL Developer  
-🐍 Passionate about solving real-world problems using data & AI
+📊 Aspiring Data Analyst | Power BI Enthusiast | SQL Developer  
+📈 Passionate about solving real-world problems using data & dashboards
 
 ---
 
@@ -10,12 +10,6 @@
 
 ### 🔹 [Marvel Dashboard – Power BI](https://github.com/mohammedpatel2024/marvel-dashboard-powerbi)
 Interactive dashboard showing insights into Marvel movies including revenue trends, character appearances, and phase-wise performance.
-
-### 🔹 [Healthcare Hub – Disease Prediction System](https://github.com/mohammedpatel2024/healthcare-hub)
-AI-based Django project that predicts diseases from symptoms, skin images, and PDF medical reports — features real-time predictions and Razorpay integration.
-
-### 🔹 [Spotify Clone](https://github.com/mohammedpatel2024/spotify-clone)
-A full-stack clone of Spotify with search, music streaming, playlists, and responsive UI.
 
 ### 🔹 [Patient Dashboard – Power BI](https://github.com/mohammedpatel2024/patient-dashboard)
 A Power BI dashboard that visualizes patient treatment data with key insights into demographics, diagnosis, and cost.
@@ -30,11 +24,10 @@ A personal portfolio website built using HTML, CSS, and JS to showcase my projec
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, HTML, CSS, JavaScript  
-- **Libraries/Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **BI Tools:** Power BI, Excel  
-- **Web & ML:** Django, Flask, Streamlit, MobileNetV2, PyMuPDF  
-- **Databases:** MySQL, MongoDB  
+- **Data Tools:** Power BI, Excel  
+- **Database:** SQL, MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Libraries:** Pandas, NumPy, Seaborn
 
 ---
 
@@ -47,9 +40,8 @@ A personal portfolio website built using HTML, CSS, and JS to showcase my projec
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) *(replace with your real link)*  
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(or link to GitHub Pages site)*  
-- 📧 mohammed@example.com *(replace with your email)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-patel--/)  
+- 🌐 [Portfolio Website](https://github.com/mohammedpatel2024/mohammedpatel.github.io)
 
 ---
 
