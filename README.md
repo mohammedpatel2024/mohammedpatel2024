@@ -1,48 +1,27 @@
-# 👋 Hello, I'm Mohammed Patel!
+<h1 align="center">Patel Mohammed</h1>
+<p align="center">Title · Data Analyst · It Geek</p>
 
-🎓 Final Year BSc IT Student at Mumbai University  
-📊 Aspiring Data Analyst | Power BI Enthusiast | SQL Developer  
-📈 Passionate about solving real-world problems using data & dashboards
+<p align="center">
+  <a href="https://resplendent-paletas-16f0c7.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohammed-patel--/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/mohammed_patel_art/">Instagram</a>
+</p>
 
----
+<!-- Replace these placeholders with the generated assets when the template scripts are available. -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <!-- Portrait SVG (target display width: 370px) -->
+      <img src="avi-ascii.svg" width="370" alt="Animated monochrome ASCII portrait of Patel Mohammed">
+    </td>
+    <td align="center" valign="middle">
+      <!-- Wordmark SVG (target display width: 490px) -->
+      <img src="wordmark.svg" width="490" alt="Animated monochrome PATEL wordmark">
+    </td>
+  </tr>
+</table>
 
-## 🚀 Projects
-
-### 🔹 [Marvel Dashboard – Power BI](https://github.com/mohammedpatel2024/marvel-dashboard-powerbi)
-Interactive dashboard showing insights into Marvel movies including revenue trends, character appearances, and phase-wise performance.
-
-### 🔹 [Patient Dashboard – Power BI](https://github.com/mohammedpatel2024/patient-dashboard)
-A Power BI dashboard that visualizes patient treatment data with key insights into demographics, diagnosis, and cost.
-
-### 🔹 [Amazon Sales Dashboard – Power BI](https://github.com/mohammedpatel2024/amazon-dashboard)
-Visual report analyzing Amazon product sales, order trends, category performance, and regional insights.
-
-### 🔹 [Portfolio Website](https://github.com/mohammedpatel2024/mohammedpatel.github.io)
-A personal portfolio website built using HTML, CSS, and JS to showcase my projects, skills, and contact details.
-
----
-
-## 🛠️ Tech Stack
-
-- **Data Tools:** Power BI, Excel  
-- **Database:** SQL, MySQL  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Libraries:** Pandas, NumPy, Seaborn
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedpatel2024&layout=compact&theme=radical)
-
----
-
-## 📬 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-patel--/)  
-- 🌐 [Portfolio Website](https://github.com/mohammedpatel2024/mohammedpatel.github.io)
-
----
-
-> *"Turning complex data into simple stories – one dashboard at a time."*
+<p align="center">
+  <!-- Contribution animation: replace with the generated graph asset. -->
+  <img src="contrib-heatmap.svg" alt="GitHub contribution graph">
+</p>
