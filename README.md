@@ -2,81 +2,164 @@
 
 # MOHAMMED PATEL
 
-### `mohammedpatel2024@github:~$ whoami`
+### `> Building. Analyzing. Innovating.`
 
-**Data Analyst | Python Developer | IT Enthusiast**
+**Data Analyst | Python Developer | Frontend Developer**
 
-<img src="./avi-ascii.svg" width="260" alt="ASCII Portrait" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://resplendent-paletas-16f0c7.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-patel--/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammed_patel_art/)
 
-*Turning data into insights, one query at a time.*
+<img src="./avi-ascii.svg" width="220" alt="ASCII Portrait"/>
 
-[Portfolio](https://resplendent-paletas-16f0c7.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-patel--/) · [Instagram](https://www.instagram.com/mohammed_patel_art/)
+*Turning ideas into applications and data into meaningful insights.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedpatel2024&style=flat-square&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/mohammedpatel2024?style=flat-square&color=blue)
 
 </div>
 
 ---
 
-### `$ cat about_me.txt`
+## 👨‍💻 About Me
 
-Hi! I'm **Mohammed Patel**, a tech enthusiast and aspiring Data Analyst from Mumbai, India.
+```python
+class MohammedPatel:
+    def __init__(self):
+        self.name = "Mohammed Patel"
+        self.location = "Mumbai, India"
+        self.education = "MCA Student"
+        self.university = "Mumbai University"
 
-- 🎓 MCA Student | Mumbai University Graduate
-- 📊 Interested in Data Analytics and Data Science
-- 🐍 Working with Python, SQL and Power BI
-- 📈 Love exploring data and building dashboards
-- 🚀 Always learning, building and improving.
+        self.roles = [
+            "Data Analyst",
+            "Python Developer",
+            "Frontend Developer"
+        ]
 
-### `$ ls tech_stack/`
+        self.interests = [
+            "Data Analytics",
+            "Web Development",
+            "Artificial Intelligence",
+            "Problem Solving"
+        ]
 
-| Category | Technologies |
-|---|---|
-| Languages | Python, SQL, JavaScript |
-| Data Analysis | Excel, Pandas, NumPy |
-| Visualization | Power BI, Matplotlib |
-| Web Development | HTML, CSS, JavaScript |
-| Database | MySQL, SQLite |
-| Tools | Git, GitHub, VS Code |
+    def current_focus(self):
+        return "Learning, building and improving every day!"
 
-### `$ ./featured_projects.sh`
+me = MohammedPatel()
+```
 
-**01. Rapido Analytics Dashboard**
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 📊 Passionate about data analytics and visualization.
+- 🐍 Exploring Python development and automation.
+- 🌐 Building interactive and user-friendly web applications.
+- 🚀 Interested in turning real-world problems into technology solutions.
 
-Data analysis and visualization project focused on ride-booking insights.
+---
 
-**02. Amazon Sales Dashboard**
+## 🛠️ Tech Stack & Skills
 
-An interactive dashboard exploring sales performance and business insights.
+### Programming Languages
 
-**03. Spotify Web Project**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-A frontend web development project inspired by Spotify.
+### Frontend Development
 
-**04. Multiple Disease Prediction System**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-An academic AI/ML project using machine learning and image classification.
+### Data Analytics & Visualization
 
-*Add your actual repository links to each project title.*
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### `$ ./github_stats.sh`
+### Database & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,django,flask" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 01 | Rapido Analytics Dashboard
+📊 **Data Analytics | SQL | Power BI | Excel**
+
+Analyzed ride-booking data to uncover business insights, identify trends and visualize operational performance through dashboards.
+
+### 02 | Amazon Sales Dashboard
+📈 **Data Analytics | Power BI | Excel**
+
+An interactive sales dashboard exploring revenue, product performance and business trends to support data-driven decisions.
+
+### 03 | Spotify Web Project
+🎵 **Frontend Development | HTML | CSS | JavaScript**
+
+A frontend web development project inspired by Spotify, focusing on interface design and user experience.
+
+### 04 | Multiple Disease Prediction System
+🤖 **Machine Learning | Python | Image Classification**
+
+An academic AI/ML project exploring disease prediction through machine learning techniques and image classification.
+
+### 05 | CloudVault – Cloud Storage System
+☁️ **Python | Flask | AWS S3 | HTML | CSS | JavaScript**
+
+Built a private cloud file management application with file uploads, downloads, searching, renaming and deletion using Amazon S3.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"/>
 
-<img src="https://streak-stats.demolab.com?user=mohammedpatel2024&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedpatel2024&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF"/>
 
-<img src="./contrib-heatmap.svg" width="95%" alt="Contribution Heatmap" />
+<img width="90%" src="https://streak-stats.demolab.com?user=mohammedpatel2024&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
-### `$ ./connect.sh`
+---
+
+## 🎯 Currently Learning
+
+- Advanced Python Development
+- Frontend Development
+- Data Analysis & Visualization
+- Machine Learning Fundamentals
+- Cloud Technologies
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[🌐 Portfolio](https://resplendent-paletas-16f0c7.netlify.app/) · [💼 LinkedIn](https://www.linkedin.com/in/mohammed-patel--/) · [📸 Instagram](https://www.instagram.com/mohammed_patel_art/)
+**Have an idea, project or opportunity? Let's connect!**
 
-**Let's connect, collaborate and build something meaningful.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-111827?style=for-the-badge&logo=googlechrome)](https://resplendent-paletas-16f0c7.netlify.app/)
 
-`echo "Thanks for visiting my profile!"`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-patel--/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-mohammed__patel__art-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohammed_patel_art/)
+
+<br/>
+
+### `echo "Thanks for visiting my GitHub profile!"`
+
+⭐ *Keep learning. Keep building. Keep growing.*
 
 </div>
