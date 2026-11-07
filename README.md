@@ -10,7 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-patel--/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammed_patel_art/)
 
-<img src="./avi-ascii.svg" width="220" alt="ASCII Portrait"/>
+<img src="./professional_asterisk_portrait.gif"
+     width="300"
+     alt="Professional animated ASCII portrait"/>
+### `<img src="./avi-ascii.svg" width="220" alt="ASCII Portrait"/>`
 
 *Turning ideas into applications and data into meaningful insights.*
 
