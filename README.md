@@ -121,25 +121,26 @@ Built a private cloud file management application with file uploads, downloads, 
 ---
 
 
-## 📊 GitHub Statistics
 
-<div align="center">
+## 🔥 GitHub Contribution Streak
 
-### 📈 Overall Statistics
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg"
+       width="100%"
+       alt="GitHub contribution streak and calendar" />
+</picture>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📅 Contribution Activity
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammedpatel2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-### 🔥 Contribution Streak
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=mohammedpatel2024&theme=tokyonight&hide_border=true" />
-
-### 📅 Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedpatel2024&theme=tokyo-night&hide_border=true" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/lifetime.dark.svg" />
+  <img src="./assets/lifetime.light.svg"
+       width="100%"
+       alt="GitHub contribution history" />
+</picture>
 
 
 ---
