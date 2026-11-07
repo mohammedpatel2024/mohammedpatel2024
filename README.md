@@ -120,17 +120,27 @@ Built a private cloud file management application with file uploads, downloads, 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"/>
+### 📈 Overall Statistics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedpatel2024&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mohammedpatel2024&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=mohammedpatel2024&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammedpatel2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+### 🔥 Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=mohammedpatel2024&theme=tokyonight&hide_border=true" />
+
+### 📅 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedpatel2024&theme=tokyo-night&hide_border=true" />
 
 </div>
+
 
 ---
 
