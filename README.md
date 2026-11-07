@@ -13,7 +13,7 @@
 <img src="./professional_asterisk_portrait.gif"
      width="300"
      alt="Professional animated ASCII portrait"/>
-### `<img src="./avi-ascii.svg" width="220" alt="ASCII Portrait"/>`
+
 
 *Turning ideas into applications and data into meaningful insights.*
 
